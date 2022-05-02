@@ -22,8 +22,6 @@ permalink: /about/
 {% endfor %}
 {% if site.url contains 'mazhuang.org' %}
 <li>
-微信公众号：
-![avatar](/assets/images/wx-per.png)
 
 
 ## Skill Keywords
