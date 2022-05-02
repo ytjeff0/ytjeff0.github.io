@@ -141,9 +141,9 @@ gitment:
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: Wanghoujie
-    repo: blog
+    repo: blog-comments
     clientID: 26991b3c06434c888284
-    clientSecret: 7940f3cc4ecfe19a46b1056ca0509d6306164da2
+    clientSecret: a0080a63f533ddf69a101969f6fa7d9915fb5af3
 # https://utteranc.es/
 utterances:
     repo: mzlogin/blog-comments
