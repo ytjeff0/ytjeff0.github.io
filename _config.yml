@@ -10,7 +10,7 @@ description: "王厚杰的个人博客，微信号：何必执着"
 keywords: 阿杰的探索之旅, Houjie Wang, clecc, wanghoujie, 何必执着
 timezone: Asia/Shanghai
 encoding: "utf-8"
-repository: mzlogin/mzlogin.github.io
+repository: Wanghoujie/wanghoujie.github.io
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
     jsdelivr:
