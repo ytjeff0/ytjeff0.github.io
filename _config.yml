@@ -2,12 +2,12 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://mazhuang.org
+url: https://wanghoujie.github.io
 date_format: "ordinal"
-title: 码志
-subtitle: "公众号：闷骚的程序员"
-description: "马壮的个人博客，公众号：闷骚的程序员"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang, 闷骚的程序员
+title: 阿杰的探索之旅
+subtitle: "微信号：何必执着"
+description: "王厚杰的个人博客，微信号：何必执着"
+keywords: 阿杰的探索之旅, Houjie Wang, clecc, wanghoujie, 何必执着
 timezone: Asia/Shanghai
 encoding: "utf-8"
 repository: mzlogin/mzlogin.github.io
