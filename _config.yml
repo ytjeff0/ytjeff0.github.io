@@ -140,10 +140,10 @@ gitment:
         client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: mzlogin
-    repo: blog-comments
-    clientID: d2e1cbbd298958076462
-    clientSecret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+    owner: Wanghoujie
+    repo: blog
+    clientID: 26991b3c06434c888284
+    clientSecret: 7940f3cc4ecfe19a46b1056ca0509d6306164da2
 # https://utteranc.es/
 utterances:
     repo: mzlogin/blog-comments
