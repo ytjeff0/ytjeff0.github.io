@@ -30,8 +30,6 @@ keywords: GitHub Pages
 
 然后，选择主题
 
-![ ](/images/blog/20220503-github-theme.jpg)
-
 按如图所示选择，注意，选择source之后记得Save，然后点击Choose a theme选择一个博客主题。
 
 ![ ](/images/blog/20220503-github-choose-theme.jpg)
