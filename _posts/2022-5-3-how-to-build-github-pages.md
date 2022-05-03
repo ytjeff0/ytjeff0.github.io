@@ -1,8 +1,8 @@
 ---
 layout: post
-title: GitHub Pages博客搭建流程
+title: 如何使用GitHub Pages搭建个人博客
 categories: GitHub
-description: 如何使用GitHub Pages搭建个人博客
+description: GitHub Pages博客搭建的具体流程
 keywords: GitHub Pages
 ---
 
