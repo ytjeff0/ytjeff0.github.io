@@ -23,7 +23,6 @@ permalink: /about/
 {% if site.url contains 'mazhuang.org' %}
 <li>
 
-
 ## Skill Keywords
 
 {% for skill in site.data.skills %}
