@@ -12,8 +12,7 @@ keywords: GitHub Pages
 
 参考CSDN上的一篇文章：
 
-- [教你如何注册Github账号]（https://www.csdn.net/tags/MtTaQgysNDk5OTQtYmxvZwO0O0OO0O0O.html/）
-- [Setting up your Pages site locally with Jekyll](https://help.github.com/articles/setting-up-your-pages-site-locally-with-jekyll/)
+- [教你如何注册Github账号](https://www.csdn.net/tags/MtTaQgysNDk5OTQtYmxvZwO0O0OO0O0O.html)
 
 ## 2.博客搭建
 
