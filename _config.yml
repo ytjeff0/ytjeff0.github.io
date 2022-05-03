@@ -143,7 +143,7 @@ gitalk:
     owner: Wanghoujie
     repo: blog-comments
     clientID: 26991b3c06434c888284
-    clientSecret: a0080a63f533ddf69a101969f6fa7d9915fb5af3
+    clientSecret: 6003a67e26ced274b19e37a6bf288df0f7aecc72
 # https://utteranc.es/
 utterances:
     repo: mzlogin/blog-comments
