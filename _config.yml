@@ -5,9 +5,9 @@ baseurl:
 url: https://wanghoujie.github.io
 date_format: "ordinal"
 title: 阿杰的探索之旅
-subtitle: "微信号：何必执着"
-description: "王厚杰的个人博客，微信号：何必执着"
-keywords: 阿杰的探索之旅, Houjie Wang, clecc, wanghoujie, 何必执着
+subtitle: "近朱者赤，近墨者黑"
+description: "阿杰的个人博客，近朱者赤，近墨者黑"
+keywords: 阿杰的探索之旅, Jie A, clecc, ajie
 timezone: Asia/Shanghai
 encoding: "utf-8"
 repository: Wanghoujie/wanghoujie.github.io
@@ -20,7 +20,7 @@ components:
     # 分享
     # weibo,qq,wechat,douban,qzone,linkedin,facebook,twitter
     share:
-        enabled: false
+        enabled: true
         hide-platforms: qq,facebook
     # 不蒜子访问统计
     busuanzi:
