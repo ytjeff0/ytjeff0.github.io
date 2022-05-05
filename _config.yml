@@ -81,6 +81,9 @@ navs:
   -
     href: /wiki/
     label: 维基
+  -
+    href: /donate/
+    label: 捐助
 
   -
     href: /links/
