@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://wanghoujie.github.io
+url: https://ytjeff0.github.io
 date_format: "ordinal"
 title: 阿杰的探索之旅
 subtitle: "近朱者赤，近墨者黑"
@@ -10,7 +10,7 @@ description: "阿杰的个人博客，近朱者赤，近墨者黑"
 keywords: 阿杰的探索之旅, Jie A, clecc, ajie
 timezone: Asia/Shanghai
 encoding: "utf-8"
-repository: Wanghoujie/wanghoujie.github.io
+repository: ytjeff0/ytjeff0.github.io
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
     jsdelivr:
@@ -140,7 +140,7 @@ gitment:
         client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: Wanghoujie
+    owner: ytjeff0
     repo: blog-comments
     clientID: 26991b3c06434c888284
     clientSecret: 6003a67e26ced274b19e37a6bf288df0f7aecc72
